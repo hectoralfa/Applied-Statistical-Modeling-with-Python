@@ -29,7 +29,6 @@ Each notebook in this repository represents a **self-contained case study**, fol
 
 ### 1. ANCOVA — Continuous Response with Covariates
 - **Notebook:** `ancova_cadmium.ipynb`
-- **Type:** Gaussian (Normal)
 - **Description:**
   - Analysis of lung capacity under cadmium exposure
   - Adjustment for age using ANCOVA
@@ -42,13 +41,12 @@ Each notebook in this repository represents a **self-contained case study**, fol
 ---
 
 ### 2. Positive Continuous Data (Coming Soon)
-- **Type:** Gamma / Log-Normal
+- **Type:**
 - **Description:**
-  - Modeling strictly positive variables (e.g., costs, duration)
+  - 
 - **Key concepts:**
-  - Non-negative response modeling
-  - Link functions
-  - Heteroscedasticity handling
+  - 
+  
 
 ---
 
@@ -57,20 +55,16 @@ Each notebook in this repository represents a **self-contained case study**, fol
 - **Description:**
   - Modeling discrete event counts
 - **Key concepts:**
-  - Overdispersion
-  - Rate interpretation
-  - Log-link models
+  - 
 
 ---
 
 ### 4. Compositional Data (Dirichlet Models) (Coming Soon)
-- **Type:** Dirichlet / Multinomial
+- **Type:** Dirichlet 
 - **Description:**
   - Modeling proportions and compositional data
 - **Key concepts:**
-  - Probability vectors
-  - Dependency between components
-  - Multivariate distributions
+  - 
 
 ---
 
@@ -119,6 +113,6 @@ Across these case studies, the focus is on:
 Data Scientist | Statistical Modeling | Machine Learning  
 
 - GitHub: https://github.com/hectoralfa  
-- LinkedIn: ()
+- LinkedIn: (https://www.linkedin.com/in/héctor-olivares-561278219/)
 
 
